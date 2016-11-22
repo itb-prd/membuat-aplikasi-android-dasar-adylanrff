@@ -1,0 +1,13 @@
+
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="options_about_text">About</string>
+    <string name="options_exit_text">Exit</string>
+    <string name="enter_new_title">Ubah to do</string>
+    <string name="enter_new_name_button">KIRIM</string>
+    <string name="edit_screen_title">Ubah</string>
+    <string name="add_screen_title">Tambah</string>
+    <string name="add_new_list">Tambah To Do</string>
+    <string name="enter_new_title_hint">Masukkan nama baru</string>
+    <string name="add_new_list_hint">Masukkan kegiatan baru</string>
+</resources>
